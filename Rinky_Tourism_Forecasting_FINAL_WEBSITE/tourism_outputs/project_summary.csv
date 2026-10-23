@@ -1,0 +1,11 @@
+item,value
+dataset_rows,5241
+countries_entities,209
+start_year,1995
+end_year,2024
+eligible_forecast_countries,59
+forecast_start_year,2025
+forecast_end_year,2029
+models_compared,"Naive, Holt, ARIMA"
+selection_metric,RMSE
+evaluation_metrics,"MAE, RMSE, MAPE"
